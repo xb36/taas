@@ -17,4 +17,4 @@ If you believe that transgram is a thing, don't wait until you make an offer for
 5. Ensure continuous development
 
 ## Get in Touch
-If you are convinced, don't hesistate to [discuss opportunities](mailto:opportunities@running.digital).
+If you are convinced, don't hesistate to [discuss opportunities](mailto:opportunities@running.digital?subject=Transgram as a Service&body=Hi,I'm interested in learning more about "Transgram as a service" and would like information on ).
