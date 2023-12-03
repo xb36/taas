@@ -17,4 +17,4 @@ If you believe that transgram is a thing, don't wait until you make an offer for
 5. Ensure continuous development
 
 ## Get in Touch
-If you are convinced, don't hesistate to [discuss opportunities](https://www.linkedin.com/in/felix-pernat-46a03a241/).
+If you are convinced, don't hesistate to [discuss opportunities](mailto:opportunities@running.digital).
